@@ -88,7 +88,7 @@ void loop() {
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
-![](https://github.com/WilberVD/PRACTICA-DHT/blob/main/programa%20corriendo.jpg)
+![](https://github.com/WilberVD/PRACTICA-3-DHT11-CON-LCD/blob/main/corriendo.jpg)
 
 
 # Créditos
